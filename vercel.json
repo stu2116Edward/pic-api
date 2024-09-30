@@ -1,7 +1,8 @@
 {
+  "version": 2,
   "functions": {
     "api/index.php": {
-      "runtime": "vercel-php@latest"
+      "runtime": "now-php@1"
     }
   }
 }
